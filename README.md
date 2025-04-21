@@ -2,7 +2,6 @@
 ---
 
 ### 📑 Reporte HTML de resultados
-Puedes crear un archivo HTML sencillo que resuma los resultados. Por ejemplo:
 
 ```html
 <!DOCTYPE html>
